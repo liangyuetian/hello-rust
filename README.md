@@ -7,4 +7,6 @@
 
 [Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)
 
+[通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
+
 目前有actix rocket这些web框架，webassembly框架有yew
