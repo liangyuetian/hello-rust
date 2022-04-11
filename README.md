@@ -9,4 +9,6 @@
 
 [通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 
+[Rust语言圣经](https://github.com/sunface/rust-course)
+
 目前有actix rocket这些web框架，webassembly框架有yew
